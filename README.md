@@ -1,4 +1,4 @@
-jenkins-beanstalk-plugin
+Jenkins Beanstalk Plugin
 ========================
 
 Jenkins Beanstalk Plugin
