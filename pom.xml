@@ -17,7 +17,7 @@
     <packaging>hpi</packaging>
 
     <properties>
-        <version.aws-java-sdk>[1.9.1,)</version.aws-java-sdk>
+        <version.aws-java-sdk>[1.9.3,)</version.aws-java-sdk>
     </properties>
 
     <dependencies>
